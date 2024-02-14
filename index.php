@@ -43,8 +43,7 @@
             <img src='img/admin.jpg'></a>
         </td>
     <tr align='center'>
-<td>STAFF ILPS</td>
-<td>ADMIN ILPS</td>
+
 </tr>
 </table>
 </div>
