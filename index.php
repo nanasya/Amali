@@ -50,12 +50,7 @@
 <br><br>
 <br><br>
  <!-- footer -->
- <footer>
-                 <!-- Copyright -->
-            <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-            <p class="text-black">  Copyright © 2022 : E-BOOKING BILIK PENTADBIRAN SISTEM ILP Selandar</p>
-            </div>
-            </footer>
+
 
 </body>
 </html>
